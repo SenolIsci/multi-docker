@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Runs on AWS eleaticbeans.Calculate Fibonacci numbers.Please scroll down.
+            Runs on AWS eleaticbeans.Please scroll down.
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
